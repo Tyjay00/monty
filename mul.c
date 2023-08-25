@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_mul - multiplies the top two elements of the stack.
+ * f_mul - function multiplies the top two elements of the stack.
  * @head: stack head
  * @counter: line_number
  * this function performs the required calculations.
