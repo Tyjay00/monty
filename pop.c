@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_pop - prints the top
+ * f_pop - function prints the top
  * @head: stack head
  * @counter: line_number
  * effectively removes the top element from the stack if the stack is not empty
