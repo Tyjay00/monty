@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * f_stack - prints the top
+ * f_stack - function prints the top
  * @head: stack head
  * @counter: line_number
  * this function set the bus.lifi variable to 0
