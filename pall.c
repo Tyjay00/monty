@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_pall - prints the stack
+ * f_pall - function prints the stack
  * @head: stack head
  * @counter: no used
  * this function effectively prints the contents of the stack,
