@@ -3,7 +3,7 @@
  * f_add - function adds the top two elements of the stack.
  * @head: stack head
  * @counter: line_number
- * this code first counts the number of elements in the stack
+ * this code counts the number of elements in the stack
  *
  * Return: no return
 */
